@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Facebook</title>
+</head>
+<body>
+
+    
+    <div class="fa"> 
+        <h1>facebook</h1>
+    </div>
+
+    <div class="comment">
+        <p>Connect with friends and the world around you on Facebook</p>
+    </div>
+
+<form action="#" method="GET">
+    <input type="text" id="user" name="yourname" placeholder="Email or phone number" class="details"><br>
+    <input type="password" id="pass" name="bdpass" placeholder="Password" class="private"><br>
+    <input type="submit" value="Login" class="btn1"><br>
+    <input type="submit" value="Forget password?" class="btn2"><br>
+    
+    <hr>
+    <input type="submit" value="Create new account " class="new"><br>
+
+
+</form>
+
+</body>
+</html>

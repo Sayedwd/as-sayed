@@ -1,0 +1,109 @@
+body{
+    background-color:rgb(248, 245, 245);
+}
+
+form{
+    background-color:rgb(255, 255, 255);
+    text-align:left;
+    margin:0 auto;
+    width:fit-content;
+    height:fit-content;
+    padding:80px 40px;
+    position:relative;
+    top:60px;
+    left:350px;
+    border-radius:5px;
+    box-shadow:3px 3px 3px rgb(189, 184, 184),
+    -3px -3px 3px rgb(189, 184, 184);
+
+}
+
+
+.details{
+   padding:8px 40px;
+   position:relative;
+   top: -50px;
+   border:1px;
+   border-style:solid;
+   border-radius:4px;
+   color:rgba(133, 119, 119, 0.95);
+   
+}
+
+.private{
+    padding:8px 40px; 
+    position:relative;
+    text-align:left;
+    top:-40px;
+    border:1px;
+    border-style:solid;
+    border-radius:4px;
+
+}
+
+.btn1{
+    text-align:center;
+    position:relative;
+    top:-15px;
+    left:2px;
+    background-color:rgba(46, 59, 238, 0.849);
+    padding:9px 104px;
+    color:white;
+    font-weight:bold;
+    font-size:15px;
+    border:1px;
+    border-style:solid;
+    border-radius:4px;
+}
+
+
+.btn2{
+    text-align:center;
+    position:relative;
+    top:-6px;
+    left:65px;
+    color:white;
+    font-size:13px;
+    border:0.5px;
+    border-style:solid;
+    color:rgb(10, 26, 250);
+    border-radius:4px  0.1px;
+}
+
+.new{
+
+        text-align:center;
+        position:relative;
+        top: 20px;
+        left:30px;
+        background-color:rgb(9, 209, 42);
+        padding:11px 14px;
+        color:white;
+        font-weight:bold;
+        font-size:15px;
+        border:1px;
+        border-style:solid;
+        border-radius:4px;
+  
+}
+
+
+.fa{
+    color:rgba(46, 59, 238, 0.849);
+    font-family:sans-serif;
+    font-size:17px;
+    font-weight:bold;
+    position:absolute;
+    margin-left:20px;
+    margin-top:120px;
+    
+}
+
+.comment{
+    position:absolute;
+    margin-left:20px;
+    margin-top:170px;
+    width:250px;
+    height:10px;
+    font-size:17px;
+}
