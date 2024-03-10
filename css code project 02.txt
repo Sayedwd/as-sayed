@@ -1,0 +1,98 @@
+.box1{
+    height:670px;
+    width:1200px;
+    background:linear-gradient(to left top, rgb(86, 84, 255),hsl(327, 100%, 50%));
+    position:relative; 
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:0 auto;
+}
+
+
+.box2{
+    width:950px;
+    height:445px;
+    background:linear-gradient(to left, rgb(49, 46, 255),rgb(253, 53, 39));
+    position:absolute;
+    top:100px;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:0 auto; 
+
+}
+
+
+form{
+    background-color: rgb(36, 34, 34);
+    width:fit-content;
+    height:fit-content;
+    padding:99px 70px;
+    position:relative;
+    left:250px;
+    top:20px;
+   
+
+}
+
+.bt1{
+    padding:10px 60px;
+    position:relative;
+    top: -78px;
+    border:2px solid rgb(16, 133, 168);
+    border-radius: 18px;
+    background-color: rgb(36, 34, 34);
+    color:white;
+}
+
+.bt2{
+    padding:10px 60px;
+    border-radius: 18px;
+    position:absolute;
+    top: 190px;
+    border:2px solid  rgb(16, 133, 168);
+    background-color: rgb(36, 34, 34);
+    color:white;
+}
+
+h1{
+    color:white;
+    position:relative;
+    top:-95px;
+    text-align:center;
+}
+p{
+    color:rgb(173, 159, 159);
+    position:relative;
+    top:-100px;
+    text-align:center;
+}
+
+
+.fors{
+    color:rgb(173, 159, 159);
+    position:relative;
+    left:76px;
+    top:-10px;
+    font-weight:bold;
+}
+
+.okay{
+    background-color: rgb(36, 34, 34);
+    position:relative;
+    left:60px;
+    top:25px;
+    border:2px solid rgb(53, 255, 3);
+    padding:7px 50px;
+    border-radius:15px;
+    font-size:17px;
+    font-weight:bold;
+    color:white;
+}
+
+
+
+
+

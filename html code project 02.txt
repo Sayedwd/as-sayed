@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Facebook</title>
+</head>
+<body>
+
+    
+<div class="box1">
+
+    
+<div class="box2">
+   
+    <form action="#" method="GET">
+        <h1>LOGIN</h1>
+        <p>Pleace enter your login and password</p>
+        <input type="text" id="user" name="pro" placeholder=" Username:" class="bt1"><br>
+        <input type="password" id="pass" name="private" placeholder="  Password:" class="bt2"><br>
+        <a href="#" class="fors">Forget password?</a><br>
+        <input type="submit" value="Log in" class="okay">
+    
+    
+        </form>
+</div>
+</div>
+
+
+</body>
+</html>
