@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>google</title>
+</head>
+<body>
+
+
+<div class="social">
+
+
+  <footer>
+    <div class="boxx">
+      <h1 class="text1">Brand Desing</h1>
+      <p class="place1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum explicabo sequi aut, error similique distinctio</p>
+      
+      <h1 class="text2">Sco & Marketing </h1>
+      <p class="place2">Culpa voluptatibus exercitationem numquam aut facere, modi ab quisquam mollitia magni inventore obcaecati?</p>
+      
+      <h1 class="text3"> Creative Design</h1>
+      <p class="place3"> doloribus nesciunt maiores aspernatur magnam consectetur. Modi animi totam, molestiae lorem ipsum.</p>
+
+    </div>
+      
+      
+   
+    </footer>
+
+<div class="socials"></div>
+
+<hero>
+  <nav>
+ <div class="logo">Olin<span>E</span>.</div>
+
+ <ul>
+  <li><a href="#"></a>Home</li>
+  <li><a href="#"></a>about</li>
+  <li><a href="#"></a>service</li>
+  <li><a href="#"></a>protfolio</li>
+  <li><a href="#"></a>news</li>
+  <li><a href="#"></a>contact</li>
+ </ul>
+
+ 
+  </nav>
+  <p class="p1">my name md abu sayed</p>
+  <p class="p2">i am a beginner ui/UX designer form canada</p>
+  <p class="p3">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique facilis ut fuga voluptates</p>
+
+  <button class="button">contact me</buttn>
+</hero>
+
+
+
+
+</div>
+
+
+
+
+
+   </body>
+   </html>
