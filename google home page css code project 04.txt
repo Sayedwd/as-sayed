@@ -1,0 +1,120 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+    background-image: url(florida.jpg);
+    background-repeat:no-repeat;
+    height:100vh;
+    width:100%;
+    background-size:cover;
+    background-position:center;
+}
+
+nav{
+    display:flex;
+    width:100%;
+    align-items:center;
+    justify-content:end;
+}
+
+nav .line:hover{
+    opacity:0.4;
+}
+
+nav .logo{
+    width:28px;
+    border-radius:55px;
+    margin-top:5px;
+}
+
+nav a{
+    padding:10px;
+    text-decoration:none;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:14px;
+    font-weight:bold;
+    color:black;
+}
+
+
+header .photo{
+    display:block;
+    margin:0 auto;
+}
+
+header .searchbox{
+    width:600px;
+    margin:0 auto;
+    position:relative;
+}
+
+
+header .find{
+    display:block;
+    margin:0 auto 0 auto;
+    width:100%;
+    padding:13px;
+    border:1px solid rgba(194, 186, 186, 0.333);
+    border-radius:25px;
+    outline:none;
+     font-family:Arial, Helvetica, sans-serif;
+     font-size:16px;
+     padding-left:45px;
+     box-shadow: 4px 4px 5px rgb(223, 221, 221, 0.444),
+    -4px -4px 5px rgb(223, 221, 221, 0.444);
+     margin-top:15px;
+}
+
+
+header .searchbox .glass{
+    position:absolute;
+    opacity:0.7;
+    left:20px;
+    top:15px;
+}
+
+header .searchbox .microphone{
+    position:absolute;
+    width:12px;
+    right:65px;
+    top:13px;
+}
+
+header .searchbox .web-camera{
+    position:absolute;
+    width:25px;
+    top:8px;
+    right:27px;
+
+}
+
+.main-card{
+    width:600px;
+    display:grid;
+    margin:0 auto;
+    grid-template-columns:repeat(5, 1fr);
+    margin-top:10px;
+    transition: 1s;
+
+}
+
+
+.single-card{
+    text-align: center;
+    cursor:pointer;
+    padding:15px;
+}
+
+.main-card i{
+    color:red;
+    background-color: rgb(126, 126, 124);
+    opacity:0.8;
+    padding:10px;
+    border-radius:50%;
+}
+
+.single-card:hover{
+    background-color: gray;
+    
+}

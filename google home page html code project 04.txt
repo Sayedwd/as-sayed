@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+
+  <title>Google Home Page</title>
+
+  <script src="https://kit.fontawesome.com/f96eb009b1.js" crossorigin="anonymous"></script>
+  
+
+</head>
+<body>
+
+  <nav>
+    <a href="#">Gmail</a>
+    <a href="#">Images</a>
+    <a href="#"><img class="line" src="bars (1).png"></a>
+    <a href="#"><img class="logo" src="googlephoto.png"></a>
+  </nav>
+
+<header>
+  <img src="google.png" class="photo">
+
+  <form class="searchbox">
+    <img src="search.png" class="glass">
+    <input type="search" placeholder="Search Google or type a URL" class="find" >
+    <img src="mic.png" class="microphone">
+    <img src="googlecamera.png" class="web-camera">
+  </form>
+
+</header>
+
+<div class="main-card">
+
+  <div class="single-card">
+  
+    <i class="fa-brands fa-facebook"></i>
+
+    <p>Facebook</p>
+
+  </div>
+
+  <div class="single-card">
+  
+
+    <i class="fa-brands fa-youtube"></i>
+
+    <p>youtube</p>
+
+  </div>
+
+
+  <div class="single-card">
+  
+
+    <i class="fa-brands fa-twitter"></i>
+
+    <p>twitter</p>
+
+  </div>
+
+  <div class="single-card">
+  
+    <i class="fa-brands fa-linkedin"></i>
+
+    <p>linkdin</p>
+
+  </div>
+
+ 
+  <div class="single-card">
+  
+    <i class="fa-brands fa-instagram"></i>
+
+    <p>instagram</p>
+
+  </div>
+
+  <div class="single-card">
+  
+    <i class="fa-brands fa-github"></i>
+
+    <p>github</p>
+
+  </div>
+
+
+  <div class="single-card">
+  
+    <i class="fa-brands fa-upwork"></i>
+
+    <p>upwork</p>
+
+  </div>
+
+  <div class="single-card">
+  
+    <i class="fa-brands fa-whatsapp"></i>
+
+    <p>whatsapp</p>
+
+  </div>
+
+  <div class="single-card">
+  
+    <i class="fa-brands fa-google-drive"></i>
+
+    <p>google drive</p>
+
+  </div>
+
+  <div class="single-card">
+  
+  
+    <i class="fa-solid fa-gift"></i>
+
+    <p>gift</p>
+
+  </div>
+
+</div>
+
+
+
+
+
+
+</body>
+</html>
