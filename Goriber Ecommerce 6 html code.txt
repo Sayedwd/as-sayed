@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>protfolio</title>
+    <script crossorigin="anonymous" src="https://kit.fontawesome.com/70a642cd7c.js"></script>
+</head>
+<body>
+    
+
+
+<div class="container">
+     
+    
+    <div class="logo">
+        <a href="#">LOREM <span class="po">POLIO</span></a>
+       </div>
+
+    <div class="searcharea">
+     
+        <div class="search">
+            <img src="search.png">
+            <input type="search" placeholder="Search">
+        </div>
+    </div>
+
+    <div class="section1">
+    <img src="images (26).jpeg">
+    </div>
+ 
+    <div class="sectionbutton">
+
+     <h1>su<span class="color">mm</span>er</h1>
+
+        <h2>callect<span>ion</span></h2>
+
+     <button class="btn">Details</button>
+    </div>
+      
+    <div class="iconArea">
+        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+        <a href="#"><i class="fab fa-youtube"></i></a>
+    </div>
+
+</div>
+
+<!---section part-->
+
+<section class="prasention">
+<h3>our prasention <span>time</span></h3>
+
+<div class="team">
+
+    <div class="member">
+        <img src="images (27).jpeg" alt="sorry for mistake">
+        <p>our team member</p>
+        <a href="">25%offer</a>
+        <a href="" class="btn2">Add To Card</a>
+    </div>
+
+    <div class="member">
+        <img src="images (28).jpeg" alt="sorry for mistake">
+        <p>our team member</p>
+        <a href="">25%offer</a>
+        <a href="" class="btn2">Add To Card</a>
+    </div>
+    
+    
+    
+        <div class="member">
+            <img src="images (30).jpeg" alt="sorry for mistake">
+            <p>our team member</p>
+            <a href="">25%offer</a>
+            <a href="" class="btn2">Add To Card</a>
+        </div>
+    
+      
+            <div class="member">
+                <img src="images (38).jpeg" alt="sorry for mistake">
+                <p>our team member</p>
+                <a href="">25%offer</a>
+                <a href="" class="btn2">Add To Card</a>
+            </div>
+        
+       
+            <div class="member">
+                <img src="images (39).jpeg" alt="sorry for mistake">
+                <p>our team member</p>
+                <a href="">25%offer</a>
+                <a href="" class="btn2">Add To Card</a>
+            </div>
+        
+            <div class="member">
+                <img src="images (40).jpeg" alt="sorry for mistake">
+                <p>our team member</p>
+                <a href="">25%offer</a>
+                <a href="" class="btn2">Add To Card</a>
+            </div>
+
+
+
+        </div>
+            
+  </div>
+
+</section>
+
+
+<section class="about">
+
+    <div class="aboutline">
+<h1>About Company</h1>
+<h4>Small E-Commerce Platform 2024 New Arrival Mini Messenger <span>Buy Now</span></h4>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem rem autem libero. Corrupti eos totam sunt earum, odio autem cum modi, voluptatum, dolore iusto repellat ut unde quidem ipsum soluta. A beatae perspiciatis laboriosam eligendi iste iure, ipsum qui sit fugiat nobis, quas nesciunt tempore exercitationem velit inventore labore vel?Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+    </div>
+
+    <div class="aboutline">
+
+<img src="images (26).jpeg" alt="footer">
+
+    </div>
+
+
+</section>
+
+
+<section class="prasention">
+    <h3>Our <span>Prasention</span> Comflite</h3>
+    
+    <div class="team">
+    
+        <div class="member">
+            <img src="new1.png" alt="sorry for mistake">
+            <p>our team member</p>
+            <a href="">25%offer</a>
+            <a href="" class="btn2">Add To Car</a>
+        </div>
+    
+        <div class="member">
+            <img src="new2.png" alt="sorry for mistake">
+            <p>our team member</p>
+            <a href="">25%offer</a>
+            <a href="" class="btn2">Add To Car</a>
+        </div>
+        
+        
+        
+            <div class="member">
+                <img src="new3.png" alt="sorry for mistake">
+                <p>our team member</p>
+                <a href="">25%offer</a>
+                <a href="" class="btn2">Add To Car</a>
+            </div>
+        
+          
+                <div class="member">
+                    <img src="new5.png" alt="sorry for mistake">
+                    <p>our team member</p>
+                    <a href="">25%offer</a>
+                    <a href="" class="btn2">Add To Car</a>
+                </div>
+            
+           
+                <div class="member">
+                    <img src="new6.png" alt="sorry for mistake">
+                    <p>our team member</p>
+                    <a href="">25%offer</a>
+                    <a href="" class="btn2">Add To Car</a>
+                </div>
+            
+                <div class="member">
+                    <img src="images (40).jpeg" alt="sorry for mistake">
+                    <p>our team member</p>
+                    <a href="">25%offer</a>
+                    <a href="" class="btn2">Add To Car</a>
+                </div>
+    
+    
+    
+            </div>
+                
+      </div>
+    
+    </section>
+
+
+
+    <section class="Notification">
+   <h1>Find Jobs by Skills, Industry & Location</h1>
+   <div class="Notificationinput">
+<input type="email" placeholder="Enter Your E-mail">
+<a href="" class="NotificationButton">SEND</a>
+   </div>
+    </section>
+    <hr>
+
+<footer>
+    <p>Copyright © 2024 and all rights reserved by  lorem polio</p>
+</footer>
+
+</body>
+</html>
